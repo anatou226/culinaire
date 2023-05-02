@@ -1,0 +1,281 @@
+.menu{
+    margin-left: 900px;
+    margin-bottom: 20px;
+}
+.body{
+    background-color: rgb(199, 194, 194);
+    overflow-x: hidden;
+}
+.health{
+    text-align: center;
+   z-index: 1;
+   bottom: 260px;
+   position: absolute;
+   left: 660px;
+  
+}
+.legume{
+    z-index: -1;
+}
+.contenaire_legume{
+   
+}
+.sante{
+    text-align: center;
+    z-index: 1;
+    bottom: 190px;
+    position: absolute;
+    left: 660px;
+}
+.Lorem{
+   
+    z-index: 1;
+    bottom:90px ;
+    position: absolute;
+    margin-left: 660px;
+    
+}
+.button{
+    position: relative;
+    bottom: 500px;
+    left :890px;
+    text-align: center; 
+    padding: 20px;
+}
+.read{
+color: rgb(239, 228, 228);
+background-color: black;
+padding: 20px;
+}
+.text1{
+    text-align: center;
+    position: relative;
+   
+    bottom: 190px;
+    color: black;
+    top: 10px;
+   
+}
+.text2{
+    text-align: center;
+    position: relative;
+    top:100px;
+}
+.table1{
+    background-color: blueviolet;
+    position: relative;
+    height: 400px;
+    width:280px ;
+    bottom: 190px;
+    left: 380px;
+    
+}
+.fraise{
+    width: 100%;
+    height: 400px;
+}
+*{
+    overflow-x: hidden;
+    margin: 0px;
+    padding: 0px;
+}
+.test{
+    position: relative;
+    bottom: 280px;
+    margin-left:400px;
+}
+.email{
+    position: relative;
+    bottom:260px;
+    margin-left: 380px;
+    padding: 15px;
+}
+.but{
+    position: relative;
+    bottom: 200px;
+    padding: 10px;
+    right: 200px;
+    width:200px ;
+    background-color: black;
+    color: white;
+}
+.txt{
+    text-align: center;
+    position: relative;
+    color: white;
+    
+}
+.table2{
+    background-color: red;
+    position: relative;
+    height: 420px;
+    width: 280px;
+    bottom: 600px;
+    left: 700px; 
+}
+.test3{
+    font-size: 40px;
+    text-align: center;
+    position: relative;
+    bottom: 180px;
+    top: 150px;
+    
+}
+.test4{
+    text-align: center;
+    position: relative;
+    bottom: 100px;
+    top: 180px;
+}
+.table3{
+    background-color: rgb(1, 3, 5);
+    position: relative;
+    height: 400px;
+    width: 280px;
+    bottom: 990px;
+    left: 1020px;
+}
+.test5{
+    text-align: center;
+    position: relative;
+    bottom: -150px;
+    color: white;
+}
+.test6{
+    text-align: center;
+    position: relative;
+    bottom: 100px;
+    color: white;
+    top:180px ;
+}
+.test7{
+    position: relative;
+    left: 90px;
+    color: white;
+}
+.test8{
+    position: relative;
+    left: 90px;
+    color: white;
+}
+.test9{
+    position: relative;
+    left: 90px;
+    bottom: 0px;
+    color: white;
+}
+.test10{
+    position: relative;
+    left: 90px;
+    color: white;
+}
+.test11{
+    position: relative;
+    left: 580px;
+    bottom: 400px;
+    color: white;
+}
+.test12{
+    position: relative;
+    left:580px ;
+    bottom: 330px;
+    color: white;
+}
+.test13{
+    position: relative;
+    left: 580px;
+    bottom: 280px;
+    color: white;
+}
+.test14{
+    position: relative;
+    left:580px ;
+    bottom: 250px;
+    color: white;
+}
+.test15{
+    position: relative;
+    left:990px ;
+    bottom:640px ;
+    color: white;
+}
+.test16{
+    position: relative;
+    left: 990px;
+    bottom: 600px;
+    color: white;
+}
+.test17{
+    position: relative;
+    left: 1000px;
+    bottom: 570px;
+    color: white;
+}
+.test18{
+    position: relative;
+    left: 1000px; 
+    bottom: 550px;
+    color: white; 
+}
+.tableau{
+    background-color: rgb(53, 53, 143);
+    height: 500px;
+    overflow-y: hidden;
+
+}
+.cadre{
+    height: 400px;
+    overflow-y: hidden;
+}
+.dicte{
+    font-size: small;
+    position: relative;
+    top: 50px;
+    left: 90px; ;
+}
+.lesson{ 
+    position: relative;
+    left: 90px;
+    font-size: small;
+    top: 100px;
+}
+.carton{
+    overflow-y: hidden;
+    height: 1500px;
+    overflow-y: hidden;
+}
+.lesson2{
+    position: relative;
+    text-decoration: underline;
+    top: 70px;
+    left:155px  ;
+    overflow-y: hidden;
+    
+}
+.bouge{
+    position: absolute;
+    left: 90px;
+    top: 2800px;
+    padding: 20px;
+    background-color: darkviolet;
+    color: white;
+    overflow-y: hidden;
+}
+.fille{
+    position: relative;
+  border-radius: 90%;
+  width: 400px;  
+  height: 400px;
+  top: 100px;
+  left: 180px;
+  overflow-y: hidden;
+}
+.rond{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    background-color: darkorchid;
+    border-radius: 90%;
+    left: 600px;
+ 
+}
