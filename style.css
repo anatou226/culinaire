@@ -1,6 +1,6 @@
 .menu{
-    margin-left: 900px;
-    margin-bottom: 20px;
+    margin-left: 1090px;
+    margin-bottom: 40px;
 }
 .body{
     background-color: rgb(199, 194, 194);
@@ -60,6 +60,7 @@ padding: 20px;
     text-align: center;
     position: relative;
     top:100px;
+    color: white;
 }
 .table1{
     background-color: blueviolet;
@@ -68,6 +69,13 @@ padding: 20px;
     width:280px ;
     bottom: 190px;
     left: 380px;
+    
+}
+.violet{
+    position: relative;
+    top: 80px;
+    text-align: center;
+    left: 80px;
     
 }
 .fraise{
@@ -113,12 +121,20 @@ padding: 20px;
     bottom: 600px;
     left: 700px; 
 }
+.rouge{
+    position: relative;
+    text-align: center;
+    left: 100px;
+    top: 90px;
+    color:white;
+}
 .test3{
     font-size: 40px;
     text-align: center;
     position: relative;
     bottom: 180px;
     top: 150px;
+    color: white;
     
 }
 .test4{
@@ -126,6 +142,7 @@ padding: 20px;
     position: relative;
     bottom: 100px;
     top: 180px;
+    color: white;
 }
 .table3{
     background-color: rgb(1, 3, 5);
@@ -134,6 +151,12 @@ padding: 20px;
     width: 280px;
     bottom: 990px;
     left: 1020px;
+}
+.femme{
+    position: relative;
+    text-align: center;
+    left: 100px;
+    top: 50px;
 }
 .test5{
     text-align: center;
@@ -148,6 +171,14 @@ padding: 20px;
     color: white;
     top:180px ;
 }
+.cuillere{
+    position: relative;
+    left: 50px;
+    
+    height:40px;
+    width: 40px;
+    top: 60px;
+}
 .test7{
     position: relative;
     left: 90px;
@@ -156,6 +187,14 @@ padding: 20px;
 .test8{
     position: relative;
     left: 90px;
+    color: white;
+}
+.bonbon{
+    position: relative;
+    left: 50px;
+    height: 40px;
+    width: 40px;
+    top: 50px;
     color: white;
 }
 .test9{
@@ -169,6 +208,12 @@ padding: 20px;
     left: 90px;
     color: white;
 }
+.chapeau{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    left: 500px;bottom: 400px;
+}
 .test11{
     position: relative;
     left: 580px;
@@ -180,6 +225,13 @@ padding: 20px;
     left:580px ;
     bottom: 330px;
     color: white;
+}
+.poivre{
+    position: relative;
+    left: 500px;
+    width: 40px;
+    height: 40px;
+    bottom: 280px;
 }
 .test13{
     position: relative;
@@ -193,6 +245,15 @@ padding: 20px;
     bottom: 250px;
     color: white;
 }
+.poisson{
+    position: relative;
+    left: 930px;
+    bottom: 640px;
+    width: 40px;
+    height: 40px;
+    color: white;
+    
+}
 .test15{
     position: relative;
     left:990px ;
@@ -204,6 +265,13 @@ padding: 20px;
     left: 990px;
     bottom: 600px;
     color: white;
+}
+.coeur{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    left: 950px;
+    bottom: 570px;
 }
 .test17{
     position: relative;
@@ -218,9 +286,12 @@ padding: 20px;
     color: white; 
 }
 .tableau{
+    
     background-color: rgb(53, 53, 143);
     height: 500px;
     overflow-y: hidden;
+    
+    
 
 }
 .cadre{
@@ -241,8 +312,9 @@ padding: 20px;
 }
 .carton{
     overflow-y: hidden;
-    height: 1500px;
+    height: 1000px;
     overflow-y: hidden;
+    
 }
 .lesson2{
     position: relative;
@@ -278,4 +350,22 @@ padding: 20px;
     border-radius: 90%;
     left: 600px;
  
+}
+.rond2{
+    position: relative;
+    height:100px ;
+    width: 100px; 
+    border-radius: 90%;
+    border-width: 20px;
+    border-style: solid;
+    border-color: hotpink;
+    left: 1000px;
+    bottom: 40px;
+    
+}
+.dernier{
+    position: absolute;
+    left: 1000px;
+
+    
 }
